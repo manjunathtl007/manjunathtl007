@@ -19,4 +19,4 @@ I'm constantly seeking opportunities to learn and grow in the field of data scie
 
 🌐 Let's Connect:
 
-Feel free to reach out if you want to collaborate on a project, discuss data science trends, or just have a chat about the latest in tech. You can find me on manjunath1.engineer@gmail.com
+Feel free to reach out if you want to collaborate on a project, discuss data analysis and data science trends, or just have a chat about the latest in tech. You can find me on manjunath1.engineer@gmail.com
