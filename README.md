@@ -9,7 +9,7 @@ Data Cleaning & Preprocessing
 SQL, Python
 Data Storytelling & Reporting
 
-💼 Professional Experience:
+💼 Professional Experience::
 
 I've worked on a variety of projects ranging from exploratory data analysis to building sophisticated predictive models. My hands-on experience includes working with large datasets, creating visualizations, and developing algorithms to uncover trends and patterns.
 
