@@ -1,6 +1,6 @@
 👋 Hi there! I'm Manjunath T L, a passionate Data Analyst and Data Scientist with a keen interest in turning data into actionable insights. With extensive experience in data analysis, machine learning, and statistical modeling, I thrive on solving complex problems and driving data-driven decisions.
 
-🔍 Expertise::
+🔍 Expertise:
 
 Data Analysis & Visualization
 Machine Learning & AI
